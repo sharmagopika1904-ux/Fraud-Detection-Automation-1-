@@ -67,9 +67,7 @@ Fraud-Detection-Automation-1/
 |--------------|---------------------|
 | ![Loan Approval](./Loanapproval.jpeg) | ![Financial Risk Alert](./Financialriskalert.jpeg) |
 
-### Power BI Dashboard
 
-![Power BI Dashboard](./Dashboard.jpeg)
 
 Author
 
